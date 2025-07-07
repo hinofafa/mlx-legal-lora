@@ -2,7 +2,7 @@
 
 This repository implements fine-tuning an LLM with low rank adaptation (LoRA) specifically for legal document summarization tasks, using MLX (array framework for machine learning on apple silicon m-series chips) 
 
-This repository records experiment results of several finetuned models. Finetuned models will be preserved for future study about Large Language Model e.g. PEFT, Knowledge Distilation, Circuit thread etc. 
+This repository records experiment results of several finetuned models. Finetuned models will be preserved for future study of Large Language Model e.g. PEFT, Knowledge Distilation, Circuit thread etc. 
 
 This example builds on the [mlx-examples lora](https://github.com/ml-explore/mlx-examples/tree/main/lora) example by adding an customized demo.
 Much of the code here is adapted, inspired by, or copied directly from [Apples MLX Examples](https://github.com/ml-explore/mlx-examples/tree/main).
