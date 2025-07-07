@@ -18,7 +18,7 @@ dataset from Hugging Face to train models to generate concise summaries of legal
 ## Contents
 
 * [Setup](#Setup)
-  Reference on [README_LORA.md](README_LORA.md)
+  * Reference on [README_LORA.md](README_LORA.md)
   * [Data Preparation](#Data-Preparation)
 * [Run](#Run)
   * [Fine-tune](#Fine-tune)
